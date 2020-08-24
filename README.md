@@ -40,7 +40,7 @@ SimpleAssets.add("my-asset") do |opts|
     html += <<~EOL
       <script src="#{ENV["CDN_URL"]}/my-asset/#{opts[:version]}/my-asset.min.js"></script>
 
-      <script type"text/css">
+      <script type"text/javascript">
         $(document).on('ready', function(){
           MyAsset.init();
         });
