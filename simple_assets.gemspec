@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = 'weston@westonganger.com'
   s.homepage 	= 'https://github.com/westonganger/simple_assets'
   
-  s.summary     = "Dead simple assets helper and management for Ruby. The main idea here is to promote re-usability for projects."
+  s.summary     = "Dead simple HTML-based assets helper for Ruby. The main idea here is to promote re-usability for projects."
 
   s.description = s.summary 
 

@@ -1,5 +1,5 @@
 CHANGELOG
 ---------
 
-- **0.9.0** - August 24, 2020
+- **0.1.0** - August 24, 2020
   - Gem Initial Release
