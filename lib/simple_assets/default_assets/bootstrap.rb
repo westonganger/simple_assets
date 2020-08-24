@@ -2,7 +2,7 @@ SimpleAssets.add("bootstrap") do |opts|
   html = ""
   
   version = opts[:version] || "4.3.1"
-  major_version = version.to_s[0].to_i
+  major_version = version.to_s.to_i
 
   if opts[:only] == "css"
     if opts[:bootswatch_theme].present?
