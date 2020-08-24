@@ -82,7 +82,6 @@ Please create an issue if you truly feel another library should be included here
 - [milligram](https://github.com/milligram/milligram) - [View Source](https://github.com/westonganger/simple_assets/blob/master/lib/simple_assets/default_assets/font-awesome.rb)
 - [rails-ujs](https://github.com/rails/rails/tree/master/actionview/app/assets/javascripts) - [View Source](https://github.com/westonganger/simple_assets/blob/master/lib/simple_assets/default_assets/rails-ujs.rb)
 - [turbolinks](https://github.com/turbolinks/turbolinks) - [View Source](https://github.com/westonganger/simple_assets/blob/master/lib/simple_assets/default_assets/turbolinks.rb)
-- [x-editable](https://vitalets.github.io/x-editable/) - [View Source](https://github.com/westonganger/simple_assets/blob/master/lib/simple_assets/default_assets/x-editable.rb)
 
 # Credits
 

@@ -46,8 +46,4 @@ class DefaultAssetsTest < Minitest::Test
     output = SimpleAssets.render("turbolinks")
   end
 
-  def test_x_editable
-    output = SimpleAssets.render("x-editable")
-  end
-
 end
